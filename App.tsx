@@ -1,6 +1,6 @@
 
 import React, { useState } from 'react';
-import AuraBackground from './components/AuraBackground';
+import AuraBackground from "./components/AuraBackground.tsx";
 import ReflectionForm from './components/ReflectionForm';
 import InsightCard from './components/InsightCard';
 import AuthHeader from './components/AuthHeader';
